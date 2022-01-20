@@ -1,0 +1,15 @@
+{
+    "name": "stevenl/mvc-blog",
+    "authors": [
+        {
+            "name": "Steven Lignereux",
+            "email": "slignere@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Router\\": "routes/"
+        }
+    },
+    "require": {}
+}
